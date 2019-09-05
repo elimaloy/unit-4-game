@@ -1,0 +1,16 @@
+
+    
+
+
+.img {
+    width: 150px;
+    height: 150px;
+}
+
+#crystal-main {
+    width: 650px;
+    border: 2px solid gray;
+    padding: 25px;
+    background: blue;
+    color: yellow;
+}
